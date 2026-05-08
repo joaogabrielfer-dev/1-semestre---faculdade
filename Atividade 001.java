@@ -29,7 +29,7 @@ public class Main {
                 impares++;
             }
         }
-        System.out.println("texto: " + texto);
+        System.out.println("texto digitado: " + texto);
         System.out.println("Quantidade de palavras: " + palavras);
         System.out.println("Quantidade de vogais: " + vogais);
         System.out.println("Palavras pares: " + pares);
